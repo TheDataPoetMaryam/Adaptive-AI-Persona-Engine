@@ -95,9 +95,9 @@ Workflow:
 Synthetic-Persona-Intelligence/
 
 │
-├── AI.ipynb
-├── README.md
-├── requirements.txt
+├── AI.ipynb <br>
+├── README.md <br>
+├── requirements.txt <br>
 └── .gitignore
 
 
